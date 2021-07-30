@@ -1,0 +1,6 @@
+[submodule "externals/TartanLlama/expected"]
+	path = externals/TartanLlama/expected
+	url = https://github.com/TartanLlama/expected.git
+[submodule "externals/martinmoene/optional-lite"]
+	path = externals/martinmoene/optional-lite
+	url = https://github.com/martinmoene/optional-lite.git
