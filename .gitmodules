@@ -4,3 +4,9 @@
 [submodule "externals/martinmoene/optional-lite"]
 	path = externals/martinmoene/optional-lite
 	url = https://github.com/martinmoene/optional-lite.git
+[submodule "externals/catchorg/Catch2"]
+	path = externals/catchorg/Catch2
+	url = https://github.com/catchorg/Catch2.git
+[submodule "externals/nakat-t/utility-cpp11"]
+	path = externals/nakat-t/utility-cpp11
+	url = https://github.com/nakat-t/utility-cpp11.git

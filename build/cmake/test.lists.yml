@@ -1,0 +1,7 @@
+lists:
+  - name: "test_sources"
+    glob:
+      - "../../test/**/*.cpp"
+output:
+  - type: "cmake"
+    name: "test.lists.cmake"
